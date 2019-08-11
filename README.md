@@ -11,7 +11,6 @@ This repository contains state-of-the-art deep learning methods for medical imag
 
 - **[Awesome-Super-Resolution（in progress）](https://github.com/ChaofWang/Awesome-Super-Resolution)**
 
-
 ### Super resolution awesome papers:
 
 * [Didactic Supervised Super-resolution](https://github.com/lalit184/SuperResolution)
@@ -29,3 +28,10 @@ This repository contains state-of-the-art deep learning methods for medical imag
 
 * [multimodal_brain_synthesis](https://github.com/agis85/multimodal_brain_synthesis)
 - [Enhanced Deep Residual Networks for Single Image Super-Resolution](https://github.com/Saafke/EDSR_Tensorflow)
+
+---
+
+### Papers currently under revision :
+* [mecond-order Attention Network for Single Image Super-resolution (CVPR-2019)](https://github.com/daitao/SAN)
+
+
