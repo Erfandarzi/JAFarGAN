@@ -32,7 +32,7 @@ This repository contains state-of-the-art deep learning methods for medical imag
 ### Paper under revision :
 
 ### Papers previously under revision :
-* [mecond-order Attention Network for Single Image Super-resolution (CVPR-2019)](https://github.com/daitao/SAN)
+* [second-order Attention Network for Single Image Super-resolution (CVPR-2019)](https://github.com/daitao/SAN)
 * [Progressive Perception-Oriented Network for Single Image Super-Resolution](https://github.com/Zheng222/PPON)
 
 ### Datasts:
