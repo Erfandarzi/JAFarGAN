@@ -30,8 +30,9 @@ This repository contains state-of-the-art deep learning methods for medical imag
 - [Enhanced Deep Residual Networks for Single Image Super-Resolution](https://github.com/Saafke/EDSR_Tensorflow)
 
 ---
+### Paper under revision :
 
-### Papers currently under revision :
+### Papers previously under revision :
 * [mecond-order Attention Network for Single Image Super-resolution (CVPR-2019)](https://github.com/daitao/SAN)
 
 ### Datasts:
