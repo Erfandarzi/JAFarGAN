@@ -18,7 +18,7 @@ This repository contains state-of-the-art deep learning methods for medical imag
 * [Lightweight Image Super-Resolution with Adaptive Weighted Learning Network](https://github.com/ChaofWang/AWSRN)
 * [Keras-based implementation of WDSR, EDSR and SRGAN for single image super-resolution](https://github.com/krasserm/super-resolution)
 
-* [Natural and Realistic Single Image Super-Resolution with Explicit Natural Manifold Discrimination (CVPR 2019)](https://github.com/JWSoh/NatSR)
+* [Natural and Realistic Single Image Super-Resolution with Explicit Natural Manifold Discrimination (CVPR 2019)](https://github.com/JWSoh/NatSR) (CUDA needed)
 
 
 ---
