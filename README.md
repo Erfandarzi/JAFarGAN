@@ -30,7 +30,7 @@ This repository contains state-of-the-art deep learning methods for medical imag
 
 ---
 ### Paper under revision :
-
+* [Medical Image Synthesis for Data Augmentation and Anonymization using Generative Adversarial Networks](https://github.com/harshitAgr/brain-synthesis-lesion-segmentation)
 ### Papers previously under revision :
 * [second-order Attention Network for Single Image Super-resolution (CVPR-2019)](https://github.com/daitao/SAN)
 * [Progressive Perception-Oriented Network for Single Image Super-Resolution](https://github.com/Zheng222/PPON)
