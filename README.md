@@ -32,6 +32,7 @@ This repository contains state-of-the-art deep learning methods for medical imag
 ### Paper under revision :
 * [Medical Image Synthesis for Data Augmentation and Anonymization using Generative Adversarial Networks](https://github.com/harshitAgr/brain-synthesis-lesion-segmentation)
 * [CycleGAN MRI image synthesis](https://github.com/simontomaskarlsson/GAN-MRI)
+* [Another CycleGAN implementation in colab](https://github.com/Siddhartha24795/Medical-Image-Synthesis)
 
 ### Papers previously under revision :
 * [second-order Attention Network for Single Image Super-resolution (CVPR-2019)](https://github.com/daitao/SAN)
